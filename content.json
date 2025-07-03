@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-01-01T00:00:00Z",
+  "total_content": 0,
+  "movies": [],
+  "series": [],
+  "anime": [],
+  "metadata": {
+    "app_name": "Top5 Cinema LEGENDARY EDITION",
+    "supported_versions": ["1.0.0"],
+    "update_frequency": "hourly"
+  }
+}
