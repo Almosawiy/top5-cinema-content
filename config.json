@@ -1,0 +1,17 @@
+{
+  "api_settings": {
+    "tmdb_api_key": "YOUR_TMDB_API_KEY",
+    "mal_client_id": "YOUR_MAL_CLIENT_ID",
+    "update_interval_hours": 1
+  },
+  "content_sources": {
+    "foreign_movies": "https://api.themoviedb.org/3",
+    "anime": "https://api.myanimelist.net/v2",
+    "arabic_content": "manual"
+  },
+  "sync_settings": {
+    "auto_sync": true,
+    "backup_enabled": true,
+    "notification_enabled": true
+  }
+}
